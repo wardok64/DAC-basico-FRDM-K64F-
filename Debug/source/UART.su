@@ -1,0 +1,14 @@
+/home/wardo/Documents/Documentos/diplomado/Diseno_con_microcontroladores/MCUXIDE_proyectos/SERIAL/Tarea_DAC/CMSIS/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+/home/wardo/Documents/Documentos/diplomado/Diseno_con_microcontroladores/MCUXIDE_proyectos/SERIAL/Tarea_DAC/drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+/home/wardo/Documents/Documentos/diplomado/Diseno_con_microcontroladores/MCUXIDE_proyectos/SERIAL/Tarea_DAC/drivers/fsl_uart.h:653:20:UART_WriteByte	16	static
+/home/wardo/Documents/Documentos/diplomado/Diseno_con_microcontroladores/MCUXIDE_proyectos/SERIAL/Tarea_DAC/drivers/fsl_uart.h:667:23:UART_ReadByte	16	static
+../source/UART.c:16:6:UART0_RX_TX_IRQHandler	8	static
+../source/UART.c:27:9:UART_intr_get_status	4	static
+../source/UART.c:30:6:UART_intr_reset_status	4	static
+../source/UART.c:33:9:UART_Get_Data	4	static
+../source/UART.c:37:6:UART_mensaje_error_caracteres	80	static
+../source/UART.c:41:6:UART_mensaje_error_numerico	104	static
+../source/UART.c:45:6:UART_mensaje_welcome	80	static
+../source/UART.c:50:6:UART_mensaje_completaod	48	static
+../source/UART.c:54:6:UART_mensaje_espejo	8	static
+../source/UART.c:58:6:UART_Init_user	24	static
