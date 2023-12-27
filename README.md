@@ -13,6 +13,7 @@
 
 # Imagenes de la practica:
  - Configuracion de parametros UART (GTKTerm is a simple GTK+ terminal used to communicate with the serial port.):
+   
 ![Screenshot from 2022-05-09 17-38-41](https://user-images.githubusercontent.com/104173190/167515237-f2342d74-752d-455c-bc94-a7012d15c0bb.png)
  - UI pruebas:
  
