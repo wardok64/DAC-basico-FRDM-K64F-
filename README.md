@@ -1,7 +1,7 @@
 # DAC basico FRDM-K64
 ## DAC_UART
 
-### Manejo del Pin dedicado Digital Analog Converted (DAC) junto con una pequena interfaz de usuario, mediante la UART0 disponible en la FRDM-K64.
+Manejo del Pin dedicado Digital Analog Converted (DAC) junto con una pequena interfaz de usuario, mediante la UART0 disponible en la FRDM-K64.
 
 ### Diagrama del proyecto:
 
